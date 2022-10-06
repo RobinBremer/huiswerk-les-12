@@ -1,0 +1,116 @@
+body {
+  color: #FFFFFFBF;
+  margin: 0 auto;
+}
+header {
+  background-color: Gainsboro;
+}
+footer {
+  background-color: Gainsboro;
+}
+header, footer {
+  width: 100%;
+  height:300px;
+}
+table {
+  width: 100%;
+  text-align: center;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+tr{
+  height: 200px;
+  font-size: 40px;
+  font-family: sans-serif;
+  font-weight: bold;
+  letter-spacing: 10px
+}
+td{
+  width: 25%;
+  min-width: 250px;
+  background-blend-mode: multiply;
+  background-size: cover;
+}
+span{
+  padding: 10px;
+}
+#tdWij {
+  background-color: #CC9900FF;
+}
+#spanWij{
+  background-color: #00FFFF40;
+}
+#tdVormen {
+  background-color: #CC9900BF;
+}
+#spanVormen{
+  background-color: #00FFFF80;
+}
+#tdEen {
+  background-color: #CC990080;
+}
+#spanEen{
+  background-color: #00FFFFBF;
+}
+#tdKolom {
+  background-color: #CC990040;
+}
+#spanKolom{
+  background-color: #00FFFFFF;
+}
+#tdEn {
+  background-color: #9900FFFF;
+}
+#spanEn{
+  background-color: #CC330040;
+}
+#tdZijn {
+  background-color: #9900FFBF;
+}
+#spanZijn{
+  background-color: #CC330080;
+}
+#tdGeen {
+  background-color: #9900FF80;
+}
+#spanGeen{
+  background-color: #CC3300BF;
+}
+#tdRij {
+  background-color: #9900FF40;
+}
+#spanRij{
+  background-color: #CC3300FF;
+}
+#tdImg-1{
+  background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/upwk61915657-wikimedia-image.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=a28580a76c14fc1c599fce59b241e68d);
+  background-color: #DC143cFF;
+}
+#tdImg-2{
+  background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/px870469-image-kwvuut18.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=2f9b238abb875ed8a5d3be0df353ecee);
+  background-color: #DC143cBF;
+}
+#tdImg-3{
+  background-image: url(https://www.publicdomainpictures.net/pictures/160000/nahled/allosaurus-dinosaurs-eyes.jpg);
+  background-color: #DC143c80;
+}
+#tdImg-4{
+  background-image: url(https://live.staticflickr.com/8215/8277690743_731f7baaf8_b.jpg);
+  background-color: #DC143c40;
+}
+#tdImg-5{
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/48/RedCat_8727.jpg);
+  background-color: #00FF00FF;
+}
+#tdImg-6{
+  background-image: url(https://www.publicdomainpictures.net/pictures/20000/nahled/evil-cat-110661299804270C53.jpg);
+  background-color: #00FF00BF;
+}
+#tdImg-7{
+  background-image: url(https://www.publicdomainpictures.net/pictures/260000/nahled/tuxedo-cat-1529509714NgB.jpg);
+  background-color: #00FF0080;
+}
+#tdImg-8{
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/bc/Juvenile_Ragdoll.jpg);
+  background-color: #00FF0040;
+}
